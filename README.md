@@ -1,2 +1,2 @@
-# Blockchain-PoC
-A proof of concept of a blockchain
+# Blockchain Proof of Concept
+Proof of concept of a blockchain.
